@@ -6,3 +6,6 @@ Invite Wordity to your Discord server: https://discord.com/oauth2/authorize?clie
 
 ## Get Help
 Once Wordity is in your server, use /help for instructions.
+
+## Stats
+As of April 24, 2024, the bot is in 788 servers.
